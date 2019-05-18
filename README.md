@@ -1,4 +1,5 @@
 # Tabla de contenidos
 
-[Hello world machine learning](docs/basics/requisites.md)
-[Hello world machine learning](docs/basics/hello-world.ipynb)
+
+1. [Requisitos](docs/basics/requisites.md)
+2. [Hello world machine learning](docs/basics/hello-world.ipynb)
