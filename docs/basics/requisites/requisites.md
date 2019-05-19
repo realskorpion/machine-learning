@@ -4,4 +4,5 @@ Puede utilizar cualquier IDE y/o SDK de machine learning que desee, sin embargo,
 
 * Instalar una versión de [anaconda](https://www.anaconda.com/distribution/) compatible con python 3
 * Anaconda instala un ambiente de desarrollo denominado [jupyter lab](https://jupyterlab.readthedocs.io/en/stable/), asegúrese que puede ejecutarlo antes de continuar.
-* Leer el material [introductorio a machine learning](./intro-machine-learning.pdf)
+
+Adicionalmente se recomienda leer el material [introductorio a machine learning](./intro-machine-learning.pdf).
