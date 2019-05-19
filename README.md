@@ -2,4 +2,4 @@
 
 
 1. [Requisitos](docs/basics/requisites/requisites.md)
-2. [Hello world machine learning](docs/basics/hello-world/hello-world.ipynb)
+2. [Hola mundo de machine learning](docs/basics/hello-world/hello-world.ipynb)
